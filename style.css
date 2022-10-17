@@ -1,0 +1,190 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+
+
+.masthead {
+  /* position: relative; */
+  width: 100%;
+  height: 100vh;
+  /* min-height: 45rem; */
+  /* padding: 12rem 0; */
+  background: url("./images/first.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:contain;
+  /* overflow: hidden; */
+  /* background-attachment: scroll; */
+}
+
+.second {
+  /* position: relative; */
+  width: 100%;
+  height: 100vh;
+  /* min-height: 45rem; */
+  /* padding: 12rem 0; */
+  background: url("./images/second.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  /* overflow: hidden;
+  background-attachment: scroll; */
+}
+
+.third {
+  /* position: relative; */
+  width: 100%;
+  height: 100vh;
+  /* min-height: 45rem; */
+  /* padding: 12rem 0; */
+  background: url("./images/third.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  /* overflow: hidden;
+  background-attachment: scroll; */
+}
+
+.fourth {
+  /* position: relative; */
+  width: 100%;
+  height: 100vh;
+  /* min-height: 45rem; */
+  /* padding: 12rem 0; */
+  background: url("./images/fourth.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  /* overflow: hidden;
+  background-attachment: scroll; */
+}
+
+.one {
+  /* position: relative; */
+  width: 100%;
+  height: 100vh;
+  /* min-height: 45rem; */
+  /* padding: 12rem 0; */
+  background: url("./images/1.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  /* overflow: hidden;
+  background-attachment: scroll; */
+}
+
+.two {
+  /* position: relative; */
+  width: 100%;
+  height: 100vh;
+  /* min-height: 45rem; */
+  /* padding: 12rem 0; */
+  background: url("./images/2.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  /* overflow: hidden;
+  background-attachment: scroll; */
+}
+
+.three {
+  /* position: relative; */
+  width: 100%;
+  height: 100vh;
+  /* min-height: 45rem; */
+  /* padding: 12rem 0; */
+  background: url("./images/3.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  /* overflow: hidden;
+  background-attachment: scroll; */
+}
+
+.four {
+  /* position: relative; */
+  width: 100%;
+  height: 100vh;
+  /* min-height: 45rem; */
+  /* padding: 12rem 0; */
+  background: url("./images/4.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  /* overflow: hidden;
+  background-attachment: scroll; */
+}
+
+.five {
+  /* position: relative; */
+  width: 100%;
+  height: 100vh;
+  /* min-height: 45rem; */
+  /* padding: 12rem 0; */
+  background: url("./images/5.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  /* overflow: hidden;
+  background-attachment: scroll; */
+}
+
+.six {
+  /* position: relative; */
+  width: 100%;
+  height: 100vh;
+  /* min-height: 45rem; */
+  /* padding: 12rem 0; */
+  background: url("./images/6.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  /* overflow: hidden;
+  background-attachment: scroll; */
+}
+
+.seven {
+  /* position: relative; */
+  width: 100%;
+  height: 100vh;
+  /* min-height: 45rem; */
+  /* padding: 12rem 0; */
+  background: url("./images/7.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  /* overflow: hidden;
+  background-attachment: scroll; */
+}
+
+.eight {
+  /* position: relative; */
+  width: 100%;
+  height: 100vh;
+  /* min-height: 45rem; */
+  /* padding: 12rem 0; */
+  background: url("./images/8.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  /* overflow: hidden;
+  background-attachment: scroll; */
+}
+
+.nine {
+  /* position: relative; */
+  width: 100%;
+  height: 100vh;
+  /* min-height: 45rem; */
+  /* padding: 12rem 0; */
+  background: url("./images/9.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  /* overflow: hidden;
+  background-attachment: scroll; */
+}
